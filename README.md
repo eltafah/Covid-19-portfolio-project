@@ -1,4 +1,4 @@
-# PortfolioProject
+Covid-19 Deaths Data analytics sql project
 # COVID-19 Deaths Data Analytics Project
 
 This repository contains code and analysis for a COVID-19 deaths data analytics project. The project focuses on analyzing and visualizing COVID-19 deaths data to gain insights and explore various aspects related to the pandemic.
